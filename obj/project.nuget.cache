@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ve0QzsqdHE0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Desktop\\CivicID\\CivicID\\CivicID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.data.sqlite\\10.0.13\\microsoft.data.sqlite.10.0.13.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.13\\microsoft.data.sqlite.core.10.0.13.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\opencvsharp4\\4.13.0.20260627\\opencvsharp4.4.13.0.20260627.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\opencvsharp4.extensions\\4.13.0.20260627\\opencvsharp4.extensions.4.13.0.20260627.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\opencvsharp4.runtime.win\\4.13.0.20260627\\opencvsharp4.runtime.win.4.13.0.20260627.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.13\\sqlitepclraw.bundle_e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\sqlitepclraw.core\\2.1.13\\sqlitepclraw.core.2.1.13.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.13\\sqlitepclraw.lib.e_sqlite3.2.1.13.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.13\\sqlitepclraw.provider.e_sqlite3.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
